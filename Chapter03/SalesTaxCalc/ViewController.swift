@@ -29,6 +29,7 @@ class ViewController: NSViewController
     @IBAction func rateDidChange(_ sender: AnyObject)
     {
         calculateFullPrice()
+        //22
     }
     
     @IBAction func preTaxDidChange(_ sender: AnyObject)
